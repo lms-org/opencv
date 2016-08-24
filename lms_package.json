@@ -1,0 +1,5 @@
+{
+"name": "opencv",
+"includes":["include"],
+"description":"opencv"
+}

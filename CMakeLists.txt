@@ -578,7 +578,7 @@ if(BUILD_DOCS)
 endif(BUILD_DOCS)
 
 # --- Python Support ---
-include(cmake/OpenCVDetectPython.cmake)
+#include(cmake/OpenCVDetectPython.cmake)
 
 # --- Java Support ---
 include(cmake/OpenCVDetectApacheAnt.cmake)
